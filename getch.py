@@ -1,3 +1,7 @@
+"""
+Recipe from http://code.activestate.com/recipes/134892/ by Danny Yoo.
+"""
+
 class Getch:
     """Gets a single character from standard input.  Does not echo to the screen."""
     def __init__(self):
